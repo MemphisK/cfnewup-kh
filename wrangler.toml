@@ -1,0 +1,8 @@
+name = "cfnewup-kh"
+main = "_worker.js"
+compatibility_date = "2026-01-20"
+workers_dev = false
+
+[[kv_namespaces]]
+binding = "c"
+id = "9fd8a3bbe2964018b3ffc77c9794b4c4"
